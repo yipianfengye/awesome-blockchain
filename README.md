@@ -80,6 +80,8 @@
 
 * [比特币块链和挖矿原理](http://www.8btc.com/bitcoin_block_chain)
 
+* [比特币如何防止双重支付问题](https://www.zhihu.com/question/39948446)
+
 </br>
 
 ******
